@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(192, 223, 224);
+}
+header{
+    margin: 0;
+    padding: 0;
+}
+.header h1{
+    text-align: center;
+}
+.navbar{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+.Skills{
+    padding: 10px;
+    margin: 10px;
+    font-size: medium;
+}
+.Skills p{
+  font-size: 24px;
+  font-weight: 1000;
+   padding: 16px;
+}
+.image{
+        width: 150px;
+        height: 10px;
+        margin-top: 100px;
+}
+.contanier{
+    display: flex;
+    justify-content: space-between;
+}
+.video{
+    text-align:center ;
+}
+#desc{
+    font-size: larger;
+    font-weight:500;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Descreption{
+    display: flex;
+}
